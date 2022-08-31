@@ -1,6 +1,7 @@
 - ✨ Pedro Henrique Pecuch Pinto
 - 👋 Olá, Bem vindo ao meu perfil! 
-- 🌱 Atualmente estou estudando Matemática (noturno), na Unioeste - Cascavel, e ao mesmo tempo, estudando programação no Biopark Connect, curso que visa a formação de desenvolvedores full-stack.
+- 🌱 Atualmente estou estudando Matemática (noturno), na Unioeste - Cascavel, e ao mesmo tempo, estudando TADS EAD na uninter.
+- :computer: Certificado no curso de formação de desenvolvedores full-stack do Biopark Connect.
 - 🔊 Possuo conhecimento sobre metodologias ágeis, respectivamente Scrum e Kanban.
 
 <div align="center">
